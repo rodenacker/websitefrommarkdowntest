@@ -1,1 +1,1 @@
-Plugins [plugins/]
+[Plugins](plugins/)
